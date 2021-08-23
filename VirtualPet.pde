@@ -1,8 +1,9 @@
-
-void setup(){
-  //some of your code here
+void setup()
+{
+  size(300,300);
 }
-void draw(){
-  //more of your code here
+void draw()
+{
+arc(150, 100, 200, 200, PI, TWO_PI);
 }
-
+//Insert curves
